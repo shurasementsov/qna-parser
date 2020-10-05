@@ -34,22 +34,35 @@ def parseDate(document, page):
         print('undefined')
     return date
 
+def parseViewCounts(document, page):
+    try:
+        viewCounts = document.find(itemprop="interactionCount").get("content")
+    except:
+        viewCounts = 'undefined'
+    return viewCounts
+
+
 if __name__ == '__main__':
     i = 5
     count = 0
 
     while (i < 100):
+
         page = dowloadPage(siteUrl + str(i).zfill(6)) # я хочу создать url вида
         # ...https://qna.habr.com/q/{число из шести символов}, поэтому такой цикл
         # zfill() – добавляет незначащие нули к числу
         # str(i) – преобразование к строке, чтобы приписать незначащие нули
-
         document = BeautifulSoup(page.text, "html.parser")
+
         tags = parseTags(document, page) #парсинг тэгов вопроса
         print('Тэги: {}'.format(tags))
 
         date = parseDate(document, page) #парсинг даты, когда задали вопрос
         print('Дата: {}'.format(date))
+
+        viewCounts = parseViewCounts(document, page)
+        print('Количество просмотров: {}'.format(viewCounts))
+        print('\n')
 
         i += 2 #потому что ссылки доступны с нечётным id (некоторые id всё равно по итогу проваливаются: undefined в выводе)
 
