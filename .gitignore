@@ -1,0 +1,4 @@
+#IDE Folders
+/.idea
+/venv
+/src/__pycache__

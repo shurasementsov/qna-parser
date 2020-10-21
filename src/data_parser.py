@@ -41,8 +41,7 @@ def parseViewCounts(document, page):
         viewCounts = 'undefined'
     return viewCounts
 
-
-if __name__ == '__main__':
+def parse():
     i = 5
     count = 0
 
@@ -65,6 +64,11 @@ if __name__ == '__main__':
         print('\n')
 
         i += 2 #потому что ссылки доступны с нечётным id (некоторые id всё равно по итогу проваливаются: undefined в выводе)
+
+
+
+
+
 
 
 
