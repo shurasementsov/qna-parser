@@ -56,7 +56,7 @@ def parseTitle(document):
     return title
 
 
-def parseSignersCount(document):
+def parseSignersCount(document): #жесть, в хроме отображается как button
     try:
         signersCount = document.select('#question_show > div.question.question_full > '
                                        'div.buttons-group.buttons-group_question > a.btn.btn_subscribe > span')[0].text
@@ -129,7 +129,8 @@ def parseRespondents(document):
 
 
 def parseQuestion(questionId, document):
-    # парсинг заголовков
+
+    #ПАРСИНГ НАЗВАНИЯ (ТЕМЫ) ВОПРОСА
     title = parseTitle(document).strip()
     # print('Заголовок: {}'.format(title))
 
@@ -137,11 +138,12 @@ def parseQuestion(questionId, document):
     if (title == 'undefined'):
         return
 
-    # парсинг тэгов вопроса
+    #ПАРСИНГ ТЕГОВ ВОПРОСА (ИХ МОЖЕТ БЫТЬ НЕСКОЛЬКО, ПОЭТОМУ ФОРМИРУЕТСЯ СПИСОК ИЗ ЭТИХ ТЕГОВ)
     tags = parseTags(document)
+    tags = ', '.join(tags)
     # print('Тэги: {}'.format(tags))
 
-    # парсинг кол-ва сложности вопроса
+    # парсинг кол-ва сложности вопроса (ТАМ ГДЕ span, ТАМ ЭТОТ СТРЁМНЫЙ select)
     difficulty = parseDifficulty(document).strip()
     # print('Сложность вопроса: {}'.format(difficulty))
 
@@ -203,12 +205,20 @@ def parse(questionsCount):
     questionId = 5
 
     while (questionId < questionsCount):
+
+        #ЗАПРОС НА ЗАГРУЗКУ СТРАНИЦЫ
         page = dowloadPage(siteUrl + str(questionId).zfill(6))  # я хочу создать url вида
         # ...https://qna.habr.com/q/{число из шести символов}, поэтому такой цикл
         # zfill() – добавляет незначащие нули к числу
         # str(i) – преобразование к строке, чтобы приписать незначащие нули
+
+        #ЗАГРУЗКА СТРАНИЦЫ ЧЕРЕЗ ГИПЕР-РАЗМЕТКУ
         document = BeautifulSoup(page.text, "html.parser")
+
+        #ОТБИРАЕМ НУЖНУЮ ИНФОРМАЦИЮ
         question = parseQuestion(questionId, document)
+
+        #ДОБАВЛЯЕМ ПОЛУЧИВШУЮСЯ ИНФОРМАЦИЮ В СПИСОК
         questions.append(question)
 
         # потому что ссылки доступны с нечётным id
