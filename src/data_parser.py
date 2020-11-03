@@ -223,5 +223,5 @@ def parse(questionsCount):
 
         # потому что ссылки доступны с нечётным id
         # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
-        questionId += 2
+        questionId += 1
     return questions
