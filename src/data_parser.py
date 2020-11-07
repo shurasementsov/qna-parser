@@ -14,8 +14,8 @@ headers = {
 
 def dowloadPage(url):
     page = requests.get(url, headers=headers)
-    if page.status_code == 200:
-        print('Downloading {}... status code: {} (OK)'.format(url, page.status_code))
+    #if page.status_code == 200:
+        #print('Downloading {}... status code: {} (OK)'.format(url, page.status_code))
     return page
 
 
@@ -203,6 +203,62 @@ def parse(questionsCount):
 
     # URI parameter
     questionId = 5
+
+    while (questionId < questionsCount):
+
+        #ЗАПРОС НА ЗАГРУЗКУ СТРАНИЦЫ
+        page = dowloadPage(siteUrl + str(questionId).zfill(6))  # я хочу создать url вида
+        # ...https://qna.habr.com/q/{число из шести символов}, поэтому такой цикл
+        # zfill() – добавляет незначащие нули к числу
+        # str(i) – преобразование к строке, чтобы приписать незначащие нули
+
+        #ЗАГРУЗКА СТРАНИЦЫ ЧЕРЕЗ ГИПЕР-РАЗМЕТКУ
+        document = BeautifulSoup(page.text, "html.parser")
+
+        #ОТБИРАЕМ НУЖНУЮ ИНФОРМАЦИЮ
+        question = parseQuestion(questionId, document)
+
+        #ДОБАВЛЯЕМ ПОЛУЧИВШУЮСЯ ИНФОРМАЦИЮ В СПИСОК
+        questions.append(question)
+
+        # потому что ссылки доступны с нечётным id
+        # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
+        questionId += 1
+    return questions
+
+def parse1(questionsCount):
+    questions = []
+
+    # URI parameter
+    questionId = 5
+
+    while (questionId < questionsCount):
+
+        #ЗАПРОС НА ЗАГРУЗКУ СТРАНИЦЫ
+        page = dowloadPage(siteUrl + str(questionId).zfill(6))  # я хочу создать url вида
+        # ...https://qna.habr.com/q/{число из шести символов}, поэтому такой цикл
+        # zfill() – добавляет незначащие нули к числу
+        # str(i) – преобразование к строке, чтобы приписать незначащие нули
+
+        #ЗАГРУЗКА СТРАНИЦЫ ЧЕРЕЗ ГИПЕР-РАЗМЕТКУ
+        document = BeautifulSoup(page.text, "html.parser")
+
+        #ОТБИРАЕМ НУЖНУЮ ИНФОРМАЦИЮ
+        question = parseQuestion(questionId, document)
+
+        #ДОБАВЛЯЕМ ПОЛУЧИВШУЮСЯ ИНФОРМАЦИЮ В СПИСОК
+        questions.append(question)
+
+        # потому что ссылки доступны с нечётным id
+        # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
+        questionId += 1
+    return questions
+
+def parse2(questionsCount):
+    questions = []
+
+    # URI parameter
+    questionId = 5+questionsCount
 
     while (questionId < questionsCount):
 
