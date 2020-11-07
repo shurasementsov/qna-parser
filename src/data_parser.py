@@ -259,7 +259,7 @@ def parse2(questionsCount):
     questions = []
 
     # URI parameter
-    questionId = 5+questionsCount
+    questionId = questionsCount
     questionsCount += questionsCount
 
     while (questionId < questionsCount):
@@ -283,3 +283,61 @@ def parse2(questionsCount):
         # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
         questionId += 1
     csv_writer.writeToFile('questions2.csv', questions)
+
+def parse3(questionsCount):
+    questions = []
+
+    # URI parameter
+    questionId = questionsCount+questionsCount
+    questionsCount = questionsCount+questionsCount+questionsCount
+
+    while (questionId < questionsCount):
+
+        #ЗАПРОС НА ЗАГРУЗКУ СТРАНИЦЫ
+        page = dowloadPage(siteUrl + str(questionId).zfill(6))  # я хочу создать url вида
+        # ...https://qna.habr.com/q/{число из шести символов}, поэтому такой цикл
+        # zfill() – добавляет незначащие нули к числу
+        # str(i) – преобразование к строке, чтобы приписать незначащие нули
+
+        #ЗАГРУЗКА СТРАНИЦЫ ЧЕРЕЗ ГИПЕР-РАЗМЕТКУ
+        document = BeautifulSoup(page.text, "html.parser")
+
+        #ОТБИРАЕМ НУЖНУЮ ИНФОРМАЦИЮ
+        question = parseQuestion(questionId, document)
+
+        #ДОБАВЛЯЕМ ПОЛУЧИВШУЮСЯ ИНФОРМАЦИЮ В СПИСОК
+        questions.append(question)
+
+        # потому что ссылки доступны с нечётным id
+        # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
+        questionId += 1
+    csv_writer.writeToFile('questions3.csv', questions)
+
+def parse4(questionsCount):
+    questions = []
+
+    # URI parameter
+    questionId = questionsCount+questionsCount+questionsCount
+    questionsCount = questionsCount+questionsCount+questionsCount+questionsCount
+
+    while (questionId < questionsCount):
+
+        #ЗАПРОС НА ЗАГРУЗКУ СТРАНИЦЫ
+        page = dowloadPage(siteUrl + str(questionId).zfill(6))  # я хочу создать url вида
+        # ...https://qna.habr.com/q/{число из шести символов}, поэтому такой цикл
+        # zfill() – добавляет незначащие нули к числу
+        # str(i) – преобразование к строке, чтобы приписать незначащие нули
+
+        #ЗАГРУЗКА СТРАНИЦЫ ЧЕРЕЗ ГИПЕР-РАЗМЕТКУ
+        document = BeautifulSoup(page.text, "html.parser")
+
+        #ОТБИРАЕМ НУЖНУЮ ИНФОРМАЦИЮ
+        question = parseQuestion(questionId, document)
+
+        #ДОБАВЛЯЕМ ПОЛУЧИВШУЮСЯ ИНФОРМАЦИЮ В СПИСОК
+        questions.append(question)
+
+        # потому что ссылки доступны с нечётным id
+        # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
+        questionId += 1
+    csv_writer.writeToFile('questions4.csv', questions)
