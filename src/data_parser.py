@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import csv_writer
 import requests
 
 # адрес страницы конкретного вопроса Хабр Q&A это ничто иное как "https://qna.habr.com/q/{id}"
@@ -252,13 +253,14 @@ def parse1(questionsCount):
         # потому что ссылки доступны с нечётным id
         # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
         questionId += 1
-    return questions
+    csv_writer.writeToFile('questions1.csv', questions)
 
 def parse2(questionsCount):
     questions = []
 
     # URI parameter
     questionId = 5+questionsCount
+    questionsCount += questionsCount
 
     while (questionId < questionsCount):
 
@@ -280,4 +282,4 @@ def parse2(questionsCount):
         # потому что ссылки доступны с нечётным id
         # (некоторые id всё равно по итогу проваливаются: undefined в выводе)
         questionId += 1
-    return questions
+    csv_writer.writeToFile('questions2.csv', questions)
