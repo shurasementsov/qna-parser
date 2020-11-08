@@ -1,15 +1,11 @@
-import question_parser as parser
-import json_writer
+import data_parser as parser
+import csv_writer
 
-jsonFileName = 'questions.json'
+fileName = 'questions.csv'
 
-if __name__ == "__main__":
-    # диапазон вопросов для парсинга:
-    startId = 4
-    endId = 50
+if __name__ == '__main__':
+    # количество первых вопросов для парсинга:
+    questionsCount = 50
 
-    for questionId in range(startId, endId):
-        parsedQuestion = parser.getParsedQuestion(questionId)
-        if (parsedQuestion != None):
-            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
-
+    questions = parser.parse(questionsCount)
+    csv_writer.writeToFile('questions.csv', questions)
