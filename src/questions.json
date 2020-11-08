@@ -1,0 +1,116 @@
+[{
+    "questionId":879609,
+    "title":"Какой способ учения PHP самый лучший и эффективный?",
+    "tags":[
+        "it-образование"
+    ],
+    "difficulty":"Простой",
+    "date":"2020-11-07 21:34:36",
+    "viewsCount":"361 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"asd1982",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":467
+},{
+    "questionId":879611,
+    "title":"Какую книгу надо читать для изучения движка Unity в 2020 году?",
+    "tags":[
+        "книги",
+        "ebook",
+        "c#",
+        "unity"
+    ],
+    "difficulty":"Простой",
+    "date":"2020-11-07 21:42:44",
+    "viewsCount":"205 ",
+    "signersCount":"2",
+    "solutionsCount":"3",
+    "answersCount":"1",
+    "askerNickname":"Ivanov_Taras",
+    "respondents":[
+        "zagayevskiy",
+        "oleg_ods",
+        "mkvmaks"
+    ],
+    "datesole":[
+        "2020-11-07 22:38:17",
+        "2020-11-07 23:36:13",
+        "2020-11-07 23:33:16"
+    ],
+    "descriptionLength":288
+},{
+    "questionId":879613,
+    "title":"Как найти 3 работников каждого деп-та с макс. зарплатой за 1 проход базы?",
+    "tags":[
+        "sql",
+        "microsoft-sql-server"
+    ],
+    "difficulty":"Простой",
+    "date":"2020-11-07 21:45:26",
+    "viewsCount":"262 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"OlegKrasnov87",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":671
+},{
+    "questionId":879615,
+    "title":"Разбить две подсети по влан?",
+    "tags":[
+        "сети",
+        "cisco"
+    ],
+    "difficulty":"Средний",
+    "date":"2020-11-07 21:53:14",
+    "viewsCount":"67 ",
+    "signersCount":"1",
+    "solutionsCount":"1",
+    "answersCount":"0",
+    "askerNickname":"generalx",
+    "respondents":[
+        "hint000"
+    ],
+    "datesole":[
+        "2020-11-08 04:47:38"
+    ],
+    "descriptionLength":114
+},{
+    "questionId":879617,
+    "title":"Какой кэшер и оптимизатор на Джумлу вы посоветуете?",
+    "tags":[
+        "joomla",
+        "кэширование"
+    ],
+    "difficulty":"Простой",
+    "date":"2020-11-07 21:57:35",
+    "viewsCount":"63 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"powerful888",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":210
+},{
+    "questionId":879619,
+    "title":"Где купить криптовалюту картой MIR?",
+    "tags":[
+        "платежные-карты",
+        "криптовалюта"
+    ],
+    "difficulty":"Простой",
+    "date":"2020-11-07 21:59:45",
+    "viewsCount":"93 ",
+    "signersCount":"1",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"patsanchique",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":52
+}]
