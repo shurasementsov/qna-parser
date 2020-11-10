@@ -7,6 +7,10 @@ from multiprocessing import Process
 import time
 
 jsonFileName = 'questions.json'
+mrJason1 = 'uestions1.json'
+mrJason2 = 'uestions2.json'
+mrJason3 = 'uestions3.json'
+mrJason4 = 'uestions4.json'
 jsonFileName2 = 'users.csv'
 jsonFileName3 = 'users.json'
 
@@ -22,31 +26,31 @@ def questionQnaParser1(startId, endId):
     for questionId in range(startId, endId):
         parsedQuestion = parser.getParsedQuestion(questionId)
         if (parsedQuestion != None):
-            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+            json_writer.writeJSONtoFile(mrJason1, parsedQuestion)
 
 def questionQnaParser2(startId, endId):
-    startId += 157
+    startId += 158
     endId += 163 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         parsedQuestion = parser.getParsedQuestion(questionId)
         if (parsedQuestion != None):
-            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+            json_writer.writeJSONtoFile(mrJason2, parsedQuestion)
 
 def questionQnaParser3(startId, endId):
-    startId += 319
+    startId += 320
     endId += 325 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         parsedQuestion = parser.getParsedQuestion(questionId)
         if (parsedQuestion != None):
-            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+            json_writer.writeJSONtoFile(mrJason3, parsedQuestion)
 
 def questionQnaParser4(startId, endId):
-    startId += 481
+    startId += 482
     endId += 487 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         parsedQuestion = parser.getParsedQuestion(questionId)
         if (parsedQuestion != None):
-            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+            json_writer.writeJSONtoFile(mrJason4, parsedQuestion)
 
 def usersQnaParserPepare(firstPage, lastPage):
     lastPage += 1
@@ -74,22 +78,24 @@ if __name__ == "__main__":
     lastPage = 3426
 
     #Первый этап
-    #Парсинг вопросов
+    #ПАРСИНГ ВОПРОСОВ
     t1 = Process(target=questionQnaParser1, args=(startId, endId,))
     t2 = Process(target=questionQnaParser2, args=(startId, endId,))
     t3 = Process(target=questionQnaParser3, args=(startId, endId,))
     t4 = Process(target=questionQnaParser4, args=(startId, endId,))
-
-
-    clc = time.time()
     t1.start(); t2.start(); t3.start(); t4.start()
     t1.join(); t2.join(); t3.join(); t4.join()
-    clc = time.time() - clc
-    print(clc)
-    clc = time.time()
-    questionQnaParser(startId, endId)
-    clc = time.time() - clc
-    print(clc)
+    #с параллеливанием 100.69963002204895 секунд
+    #без распараллеливания 371.66783714294434 секунд
+
+    #Второй этап
+    #ПОДГОТОВКА СТРАНИЦ ПОЛЬЗОВАТЕЛЕЙ
+    t5 = Process(target=questionQnaParser1, args=(startId, endId,))
+    t6 = Process(target=questionQnaParser2, args=(startId, endId,))
+    t7 = Process(target=questionQnaParser3, args=(startId, endId,))
+    t8 = Process(target=questionQnaParser4, args=(startId, endId,))
+    t5.start(); t6.start(); t7.start(); t8.start()
+    t5.join(); t6.join(); t7.join(); t8.join()
     #usersQnaParserPepare(firstPage, lastPage)
     #usersQnaParser()
 
