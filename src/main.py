@@ -3,12 +3,46 @@ import user_parser
 import json_writer
 import csv_writer
 
+from multiprocessing import Process
+import time
+
 jsonFileName = 'questions.json'
 jsonFileName2 = 'users.csv'
 jsonFileName3 = 'users.json'
 
 def questionQnaParser(startId, endId):
     endId += 1 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    for questionId in range(startId, endId):
+        parsedQuestion = parser.getParsedQuestion(questionId)
+        if (parsedQuestion != None):
+            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+
+def questionQnaParser1(startId, endId):
+    endId += 1 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    for questionId in range(startId, endId):
+        parsedQuestion = parser.getParsedQuestion(questionId)
+        if (parsedQuestion != None):
+            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+
+def questionQnaParser2(startId, endId):
+    startId += 157
+    endId += 163 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    for questionId in range(startId, endId):
+        parsedQuestion = parser.getParsedQuestion(questionId)
+        if (parsedQuestion != None):
+            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+
+def questionQnaParser3(startId, endId):
+    startId += 319
+    endId += 325 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    for questionId in range(startId, endId):
+        parsedQuestion = parser.getParsedQuestion(questionId)
+        if (parsedQuestion != None):
+            json_writer.writeJSONtoFile(jsonFileName, parsedQuestion)
+
+def questionQnaParser4(startId, endId):
+    startId += 481
+    endId += 487 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         parsedQuestion = parser.getParsedQuestion(questionId)
         if (parsedQuestion != None):
@@ -33,14 +67,30 @@ def usersQnaParser():
 
 if __name__ == "__main__":
     # диапазон вопросов для парсинга:
-    startId = 879608
-    endId = 879620
+    startId = 5
+    endId = 162
 
     firstPage = 3425
     lastPage = 3426
 
-    #questionQnaParser(startId, endId)
-    usersQnaParserPepare(firstPage, lastPage)
-    usersQnaParser()
+    #Первый этап
+    #Парсинг вопросов
+    t1 = Process(target=questionQnaParser1, args=(startId, endId,))
+    t2 = Process(target=questionQnaParser2, args=(startId, endId,))
+    t3 = Process(target=questionQnaParser3, args=(startId, endId,))
+    t4 = Process(target=questionQnaParser4, args=(startId, endId,))
+
+
+    clc = time.time()
+    t1.start(); t2.start(); t3.start(); t4.start()
+    t1.join(); t2.join(); t3.join(); t4.join()
+    clc = time.time() - clc
+    print(clc)
+    clc = time.time()
+    questionQnaParser(startId, endId)
+    clc = time.time() - clc
+    print(clc)
+    #usersQnaParserPepare(firstPage, lastPage)
+    #usersQnaParser()
 
 

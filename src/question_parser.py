@@ -12,8 +12,8 @@ headers = {
 
 def dowloadPage(url):
     page = requests.get(url, headers=headers)
-    if page.status_code == 200:
-        print('Downloading {}... status code: {} (OK)'.format(url, page.status_code))
+    #if page.status_code == 200:
+        #print('Downloading {}... status code: {} (OK)'.format(url, page.status_code))
     return page
 
 
