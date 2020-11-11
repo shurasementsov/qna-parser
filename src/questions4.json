@@ -1,0 +1,2434 @@
+{
+    "questionId":487,
+    "title":"Книги и статьи по таблицам решений, в том числе нечетким?",
+    "tags":[
+        "книги"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 14:09:06",
+    "viewsCount":"2490 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"typbl4",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":91
+},{
+    "questionId":488,
+    "title":"Отсев похожих записей?",
+    "tags":[
+        "sphinx"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 14:16:54",
+    "viewsCount":"4530 ",
+    "signersCount":"8",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"jiexaspb",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":764
+},{
+    "questionId":489,
+    "title":"Онлайн трансляция радио станции!?",
+    "tags":[
+        "интернет-радио",
+        "программное-обеспечение"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 14:21:58",
+    "viewsCount":"2722 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"dovan",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":318
+},{
+    "questionId":490,
+    "title":"JQuery, JSON, iframe и кавычки вместе не работают?",
+    "tags":[
+        "jquery",
+        "html",
+        "json"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 14:44:16",
+    "viewsCount":"3578 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"liq",
+    "respondents":[
+        "lugansk"
+    ],
+    "datesole":[
+        "2010-09-14 14:59:23"
+    ],
+    "descriptionLength":455
+},{
+    "questionId":491,
+    "title":"NAS с RAID5 и DLNA-сервером?",
+    "tags":[
+        "nas"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 14:50:12",
+    "viewsCount":"4904 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"rassol",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":843
+},{
+    "questionId":492,
+    "title":"Существует ли в природе form-builder (PHP) + validator (client+server) в одном флаконе?",
+    "tags":[
+        "php",
+        "javascript",
+        "валидация"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 15:03:49",
+    "viewsCount":"6418 ",
+    "signersCount":"14",
+    "solutionsCount":"1",
+    "answersCount":"8",
+    "askerNickname":"Groove",
+    "respondents":[
+        "Groove                                                          "
+    ],
+    "datesole":[
+        "2010-10-01 20:35:05"
+    ],
+    "descriptionLength":2179
+},{
+    "questionId":493,
+    "title":"Почему в Мэйле так любят &quot;велосипеды&quot;?",
+    "tags":[
+        "видеотрансляция"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 16:03:42",
+    "viewsCount":"2570 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"steexx",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":349
+},{
+    "questionId":494,
+    "title":"Программа для проектирования интерфейсов — сильные возможности чистого экспорта",
+    "tags":[
+        "ui",
+        "парсинг"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 16:07:19",
+    "viewsCount":"5420 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"acornbreeze",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":1299
+},{
+    "questionId":495,
+    "title":"Куда писать в реестр Windows общие данные при включенном UAC?",
+    "tags":[
+        "windows"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 16:15:43",
+    "viewsCount":"3912 ",
+    "signersCount":"3",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"tangro",
+    "respondents":[
+        "amirul"
+    ],
+    "datesole":[
+        "2010-09-15 04:47:33"
+    ],
+    "descriptionLength":567
+},{
+    "questionId":496,
+    "title":"Странное поведение Google Chrome 6",
+    "tags":[
+        "google-chrome"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 16:16:32",
+    "viewsCount":"2309 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"Makor",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":274
+},{
+    "questionId":497,
+    "title":"Современный российский навигатор — каким его видите Вы?",
+    "tags":[
+        "спутниковая-навигация"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 16:58:35",
+    "viewsCount":"2704 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"10",
+    "askerNickname":"rirv",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":961
+},{
+    "questionId":498,
+    "title":"Сайт видеоконференции",
+    "tags":[
+        "видео"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 17:47:25",
+    "viewsCount":"4076 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"0",
+    "askerNickname":"monaxide",
+    "respondents":[
+        "ndubinkin"
+    ],
+    "datesole":[
+        "2010-09-14 18:01:28"
+    ],
+    "descriptionLength":517
+},{
+    "questionId":499,
+    "title":"Список специальных переменных Netbeans IDE для раздела Code Templates?",
+    "tags":[
+        "netbeans",
+        "сниппеты"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 18:05:04",
+    "viewsCount":"2678 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"afi",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":100
+},{
+    "questionId":501,
+    "title":"Лучший и небольшой документ по Code Review?",
+    "tags":[
+        "code-review"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 19:01:33",
+    "viewsCount":"3549 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"Alex_At_Net",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":220
+},{
+    "questionId":502,
+    "title":"Биты и байты",
+    "tags":[],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 19:10:06",
+    "viewsCount":"2432 ",
+    "signersCount":"3",
+    "solutionsCount":"1",
+    "answersCount":"2",
+    "askerNickname":"andreycha",
+    "respondents":[
+        "Gard"
+    ],
+    "datesole":[
+        "2010-09-14 20:15:35"
+    ],
+    "descriptionLength":109
+},{
+    "questionId":503,
+    "title":"Выравнивание символа * в строке",
+    "tags":[
+        "css",
+        "html"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 19:14:17",
+    "viewsCount":"2788 ",
+    "signersCount":"6",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"entze",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":209
+},{
+    "questionId":504,
+    "title":"Виджет для google wave?",
+    "tags":[
+        "google",
+        "windows"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 19:24:29",
+    "viewsCount":"2555 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"3ds",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":244
+},{
+    "questionId":506,
+    "title":"Хостинг для изображений с API?",
+    "tags":[
+        "api",
+        "изображения"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 20:55:02",
+    "viewsCount":"7269 ",
+    "signersCount":"11",
+    "solutionsCount":"1",
+    "answersCount":"4",
+    "askerNickname":"hormold",
+    "respondents":[
+        "Santiago26"
+    ],
+    "datesole":[
+        "2010-09-15 01:32:32"
+    ],
+    "descriptionLength":612
+},{
+    "questionId":507,
+    "title":"Антибликовая пленка?",
+    "tags":[
+        "мониторы"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 21:31:26",
+    "viewsCount":"13660 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"inoname",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":370
+},{
+    "questionId":508,
+    "title":"Торрент трекеры с научной и учебной литературой",
+    "tags":[
+        "книги"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 23:23:05",
+    "viewsCount":"23404 ",
+    "signersCount":"66",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"typbl4",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":38
+},{
+    "questionId":509,
+    "title":"Видео с RuTube без рекламы. Почему флеш-плеер не проигрывает rtmp?",
+    "tags":[
+        "rtmp",
+        "программные-плееры"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 23:27:05",
+    "viewsCount":"5223 ",
+    "signersCount":"5",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"TuiKiken",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":663
+},{
+    "questionId":510,
+    "title":"а kenai.com вообще уже всё или можно надеяться, что оживёт?",
+    "tags":[
+        "oracle",
+        "sun microsystems",
+        "netbeans",
+        "программное-обеспечение"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-14 23:27:14",
+    "viewsCount":"2573 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"0",
+    "askerNickname":"mcdb",
+    "respondents":[
+        "kirushik"
+    ],
+    "datesole":[
+        "2010-09-20 23:00:16"
+    ],
+    "descriptionLength":183
+},{
+    "questionId":511,
+    "title":"Open source widget builder?",
+    "tags":[
+        "adobe-flash"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 08:58:44",
+    "viewsCount":"2331 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"torsten",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":230
+},{
+    "questionId":512,
+    "title":"Gmail для сайта (Google Apps) рассылает спам. Как бороться?",
+    "tags":[
+        "gmail",
+        "g-suite",
+        "борьба-со-спамом"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 10:00:18",
+    "viewsCount":"2903 ",
+    "signersCount":"4",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"Kpyto",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":406
+},{
+    "questionId":513,
+    "title":"Количество процессов apache",
+    "tags":[
+        "apache"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 10:13:28",
+    "viewsCount":"16068 ",
+    "signersCount":"9",
+    "solutionsCount":"1",
+    "answersCount":"4",
+    "askerNickname":"p01nt",
+    "respondents":[
+        "bondbig"
+    ],
+    "datesole":[
+        "2010-09-15 10:21:36"
+    ],
+    "descriptionLength":347
+},{
+    "questionId":514,
+    "title":"Какие англоязычные аналоги «Хабрахабра» существуют?",
+    "tags":[
+        "habrahabr"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 10:42:55",
+    "viewsCount":"43499 ",
+    "signersCount":"118",
+    "solutionsCount":"0",
+    "answersCount":"21",
+    "askerNickname":"Tonik",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":526
+},{
+    "questionId":515,
+    "title":"ПО для работы со звуком в Mac OS",
+    "tags":[
+        "macos",
+        "аудио"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 10:48:40",
+    "viewsCount":"13461 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"xSkyFoXx",
+    "respondents":[
+        "biduin"
+    ],
+    "datesole":[
+        "2010-09-15 10:57:43"
+    ],
+    "descriptionLength":749
+},{
+    "questionId":516,
+    "title":"Готовое решение для корпоративной социальной сети",
+    "tags":[
+        "сети",
+        "социальные-сети"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 11:01:17",
+    "viewsCount":"5244 ",
+    "signersCount":"10",
+    "solutionsCount":"1",
+    "answersCount":"4",
+    "askerNickname":"zhekanax",
+    "respondents":[
+        "charon"
+    ],
+    "datesole":[
+        "2010-09-15 12:03:47"
+    ],
+    "descriptionLength":897
+},{
+    "questionId":517,
+    "title":"Как из windows-приложения узнать, какой открыт сайт?",
+    "tags":[
+        "c"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 11:08:39",
+    "viewsCount":"2776 ",
+    "signersCount":"3",
+    "solutionsCount":"1",
+    "answersCount":"2",
+    "askerNickname":"0lorin",
+    "respondents":[
+        "schursin"
+    ],
+    "datesole":[
+        "2010-09-15 11:37:53"
+    ],
+    "descriptionLength":379
+},{
+    "questionId":518,
+    "title":"Каким должен быть функционал системы обмена личными сообщениями на форуме?",
+    "tags":[
+        "cms"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 11:45:59",
+    "viewsCount":"2604 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"wmw85",
+    "respondents":[
+        "FeNUMe"
+    ],
+    "datesole":[
+        "2010-09-15 12:03:01"
+    ],
+    "descriptionLength":838
+},{
+    "questionId":520,
+    "title":"Распространенность SilverLight",
+    "tags":[
+        "silverlight"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 11:50:33",
+    "viewsCount":"2524 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"2",
+    "askerNickname":"rainwall",
+    "respondents":[
+        "schursin"
+    ],
+    "datesole":[
+        "2010-09-15 12:00:11"
+    ],
+    "descriptionLength":301
+},{
+    "questionId":521,
+    "title":"Первичная настройка Archbang",
+    "tags":[
+        "arch-linux"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 12:01:52",
+    "viewsCount":"4987 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"Narical",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":1405
+},{
+    "questionId":522,
+    "title":"Какой программой (под Win XP) можно скачать сайт с сохранением структуры папок и файлов?",
+    "tags":[],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 12:51:44",
+    "viewsCount":"16954 ",
+    "signersCount":"9",
+    "solutionsCount":"1",
+    "answersCount":"5",
+    "askerNickname":"conturov",
+    "respondents":[
+        "sHinE"
+    ],
+    "datesole":[
+        "2010-09-15 13:18:50"
+    ],
+    "descriptionLength":383
+},{
+    "questionId":523,
+    "title":"Чего посоветуете использовать для подмены веб запросов?",
+    "tags":[
+        "ruby-on-rails"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 13:52:29",
+    "viewsCount":"2326 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"enej",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":75
+},{
+    "questionId":524,
+    "title":"Postfix настройка аутентификация перед отправкой почты?",
+    "tags":[
+        "postfix",
+        "smtp"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 14:42:14",
+    "viewsCount":"4298 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"netherneon",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":248
+},{
+    "questionId":525,
+    "title":"SEO имиджевого сайта большой компании — насколько актуально?",
+    "tags":[
+        "поисковая-оптимизация"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 15:06:48",
+    "viewsCount":"2568 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"guessss_who",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":915
+},{
+    "questionId":527,
+    "title":"Файл сушествует... но &quot;No such file or directory&quot;",
+    "tags":[
+        "linux",
+        "debian",
+        "файловые-системы"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 17:55:33",
+    "viewsCount":"101829 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"5",
+    "askerNickname":"cyberia",
+    "respondents":[
+        "cyberia                                                          "
+    ],
+    "datesole":[
+        "2010-09-15 18:36:42"
+    ],
+    "descriptionLength":316
+},{
+    "questionId":528,
+    "title":"Почему хабрахабр блокирует запросы по RSS основываясь на user-agent информации?",
+    "tags":[
+        "habrahabr",
+        "rss"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 17:57:57",
+    "viewsCount":"2591 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"frol",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":1060
+},{
+    "questionId":529,
+    "title":"Какой фреймворк использовать для Unit тестов в C++?",
+    "tags":[
+        "cpp",
+        "модульное-тестирование",
+        "фреймворки"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 18:53:03",
+    "viewsCount":"2860 ",
+    "signersCount":"5",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"liq",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":125
+},{
+    "questionId":530,
+    "title":"Получить юнфо о юзере Skype",
+    "tags":[
+        "skype",
+        "api"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 18:56:20",
+    "viewsCount":"5045 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"RazoR_Empire",
+    "respondents":[
+        "mcm69"
+    ],
+    "datesole":[
+        "2010-10-18 19:19:06"
+    ],
+    "descriptionLength":99
+},{
+    "questionId":532,
+    "title":"Где хранятся локальные переменные в javascript?",
+    "tags":[
+        "javascript"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 20:12:30",
+    "viewsCount":"3311 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"Aleko",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":324
+},{
+    "questionId":534,
+    "title":"Как принимать международные платежи на сайте в Украине?",
+    "tags":[
+        "paypal",
+        "платёжные-системы",
+        "электронная-коммерция"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 21:48:33",
+    "viewsCount":"3164 ",
+    "signersCount":"7",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"vgrichina",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":227
+},{
+    "questionId":535,
+    "title":"Как отловить причину зависания компьютера?",
+    "tags":[
+        "системное-администрирование",
+        "windows"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 22:01:19",
+    "viewsCount":"18185 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"Meliborn",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":489
+},{
+    "questionId":536,
+    "title":"Где переводить WMZ с минимальной комисиией?",
+    "tags":[
+        "webmoney"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 22:13:42",
+    "viewsCount":"2543 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"6",
+    "askerNickname":"pisarevsky",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":167
+},{
+    "questionId":537,
+    "title":"Книгу для экспресс-изучения Visual Basic?",
+    "tags":[
+        "книги",
+        "visual-basic"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 22:37:51",
+    "viewsCount":"4664 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"tistas",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":353
+},{
+    "questionId":538,
+    "title":"Испольование в одной таблице пары instance_id, instance_type в Doctrine",
+    "tags":[
+        "php",
+        "doctrine-orm",
+        "базы-данных",
+        "администрирование-баз-данных"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 22:44:44",
+    "viewsCount":"2443 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"MaEcTPo",
+    "respondents":[
+        "VolCh"
+    ],
+    "datesole":[
+        "2010-09-15 23:09:23"
+    ],
+    "descriptionLength":775
+},{
+    "questionId":539,
+    "title":"Плавающие блоки. Равная ширина. Разная высота. Расположить без дырок",
+    "tags":[
+        "html"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-15 23:29:01",
+    "viewsCount":"19873 ",
+    "signersCount":"9",
+    "solutionsCount":"1",
+    "answersCount":"4",
+    "askerNickname":"puffofsmoke",
+    "respondents":[
+        "not_ice"
+    ],
+    "datesole":[
+        "2010-09-16 07:32:39"
+    ],
+    "descriptionLength":446
+},{
+    "questionId":540,
+    "title":"Windows 7, приложение Everithing не хочет автозапускаться при включении компьютера?",
+    "tags":[
+        "windows"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 01:24:05",
+    "viewsCount":"2476 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"dasty",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":129
+},{
+    "questionId":541,
+    "title":"Открытие новой вкладки при поиске в Chromium? И ещё по мелочи",
+    "tags":[
+        "google-chrome",
+        "google-plus"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 01:40:35",
+    "viewsCount":"3469 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"VolCh",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":714
+},{
+    "questionId":542,
+    "title":"Агрегатор мини-платежей (для игр) с простым выводом денег",
+    "tags":[
+        "платёжные-системы"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 01:47:52",
+    "viewsCount":"2620 ",
+    "signersCount":"6",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"soulburner",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":594
+},{
+    "questionId":543,
+    "title":"Есть ли смысл писать под AutoCAD?",
+    "tags":[
+        "lisp",
+        "autocad"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 08:19:13",
+    "viewsCount":"3711 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"0",
+    "askerNickname":"gahcep",
+    "respondents":[
+        "dotneter"
+    ],
+    "datesole":[
+        "2010-09-16 09:08:26"
+    ],
+    "descriptionLength":360
+},{
+    "questionId":544,
+    "title":"Контроль состояния прозрачности JavaScript",
+    "tags":[
+        "javascript",
+        "jquery"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 08:57:24",
+    "viewsCount":"2602 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"skvot",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":1157
+},{
+    "questionId":545,
+    "title":"Sendmail для Windows",
+    "tags":[
+        "почтовый-сервер",
+        "email",
+        "sendmail"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 10:22:35",
+    "viewsCount":"7440 ",
+    "signersCount":"5",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"Anonym",
+    "respondents":[
+        "NeX"
+    ],
+    "datesole":[
+        "2010-09-16 10:44:05"
+    ],
+    "descriptionLength":284
+},{
+    "questionId":546,
+    "title":"Отправка писем через exim4 на домен, равный hostname, если mx запись указывает на другой хост",
+    "tags":[
+        "linux",
+        "системное-администрирование",
+        "email"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 10:36:09",
+    "viewsCount":"10957 ",
+    "signersCount":"3",
+    "solutionsCount":"1",
+    "answersCount":"4",
+    "askerNickname":"homm",
+    "respondents":[
+        "charon"
+    ],
+    "datesole":[
+        "2010-09-16 11:27:23"
+    ],
+    "descriptionLength":1368
+},{
+    "questionId":547,
+    "title":"Code folding в Netbeans (php)?",
+    "tags":[
+        "netbeans"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 11:07:58",
+    "viewsCount":"3016 ",
+    "signersCount":"5",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"steexx",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":136
+},{
+    "questionId":548,
+    "title":"Как правильно пользоваться Zend Framework Programmer's Reference Guide?",
+    "tags":[
+        "zend-framework"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 11:09:38",
+    "viewsCount":"2926 ",
+    "signersCount":"5",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"usja",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":911
+},{
+    "questionId":549,
+    "title":"HTC Desire размер аватарок?",
+    "tags":[
+        "android",
+        "htc"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 11:16:31",
+    "viewsCount":"2635 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"blo",
+    "respondents":[
+        "izorg"
+    ],
+    "datesole":[
+        "2010-09-16 11:32:27"
+    ],
+    "descriptionLength":92
+},{
+    "questionId":550,
+    "title":"Virtualmin. Где взять деволтный конфиг для Postfix'а?",
+    "tags":[
+        "linux",
+        "postfix",
+        "webmin"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 12:33:36",
+    "viewsCount":"2847 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"netherneon",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":399
+},{
+    "questionId":551,
+    "title":"Нужна кроссплатформенная библиотека для работы с SRV записями DNS?",
+    "tags":[
+        "dns",
+        "qt",
+        "сети"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 12:51:40",
+    "viewsCount":"2476 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"Gorthauer87",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":230
+},{
+    "questionId":552,
+    "title":"Смена mac адреса в MacOS?",
+    "tags":[
+        "macos"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 12:53:26",
+    "viewsCount":"9453 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"7",
+    "askerNickname":"VereVa",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":108
+},{
+    "questionId":553,
+    "title":"Как дополнить экранную клавиатуру Android дополнительными символами или создать свою раскладку клавиатуры?",
+    "tags":[
+        "android",
+        "htc",
+        "шрифты",
+        "раскладка-клавиатуры"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 13:02:19",
+    "viewsCount":"27938 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"Mithgol",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":442
+},{
+    "questionId":554,
+    "title":"Как запретить доступ по http к определённому адресу сайта?",
+    "tags":[
+        "apache",
+        "информационная-безопасность"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 13:11:18",
+    "viewsCount":"6909 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"7",
+    "askerNickname":"seventh",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":1495
+},{
+    "questionId":555,
+    "title":"Посоветуйте программу для моделирования БД MySQL под Ubuntu",
+    "tags":[
+        "linux",
+        "mysql",
+        "проектирование-баз-данных"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 13:24:25",
+    "viewsCount":"14408 ",
+    "signersCount":"12",
+    "solutionsCount":"1",
+    "answersCount":"7",
+    "askerNickname":"firsyura",
+    "respondents":[
+        "LastDragon"
+    ],
+    "datesole":[
+        "2010-09-16 13:39:59"
+    ],
+    "descriptionLength":202
+},{
+    "questionId":556,
+    "title":"Можно ли Украинцу зарегистрировать ИП в России при проживании по временной регистрации?",
+    "tags":[
+        "индивидуальный-предприниматель"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 14:46:41",
+    "viewsCount":"16416 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"darkdimius",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":282
+},{
+    "questionId":557,
+    "title":"Влияние выбора CMS на ранжирование?",
+    "tags":[
+        "cms",
+        "поисковая-оптимизация",
+        "яндекс",
+        "1с-битрикс"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 14:46:52",
+    "viewsCount":"3654 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"AlexanderKirov",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":641
+},{
+    "questionId":558,
+    "title":"Как из Flash читать/писать в базу данных (MySQL или MSSQL)",
+    "tags":[
+        "adobe-flash"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 14:58:30",
+    "viewsCount":"8789 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"10",
+    "askerNickname":"jinxal",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":180
+},{
+    "questionId":559,
+    "title":"Решение для согласования документов в компании?",
+    "tags":[
+        "документооборот",
+        "организация-работы"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 16:22:40",
+    "viewsCount":"3101 ",
+    "signersCount":"6",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"Antibug",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":279
+},{
+    "questionId":562,
+    "title":"Wi-fi g+n — возможно?",
+    "tags":[
+        "wi-fi"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 17:47:30",
+    "viewsCount":"3420 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"lamo4ok",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":794
+},{
+    "questionId":563,
+    "title":"Посоветуйте stfp-клиент для Windows Mobile",
+    "tags":[
+        "мобильная-разработка",
+        "windows-mobile"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 17:47:50",
+    "viewsCount":"2333 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"temujin",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":242
+},{
+    "questionId":564,
+    "title":"Что-то вроде денвера, но с ruby под win32?",
+    "tags":[
+        "ruby",
+        "denwer"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 18:56:16",
+    "viewsCount":"2742 ",
+    "signersCount":"4",
+    "solutionsCount":"1",
+    "answersCount":"2",
+    "askerNickname":"0lympian",
+    "respondents":[
+        "MpaK999"
+    ],
+    "datesole":[
+        "2010-09-17 12:13:35"
+    ],
+    "descriptionLength":281
+},{
+    "questionId":565,
+    "title":"Как реагируют поисковики на указание языка страници в URI?",
+    "tags":[
+        "поисковые-системы",
+        "интернационализация-и-локализация"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 18:58:27",
+    "viewsCount":"2706 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"7",
+    "askerNickname":"mayhem",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":407
+},{
+    "questionId":566,
+    "title":"Возможна ли привязка WiFi клиента к определённой точке доступа?",
+    "tags":[
+        "wi-fi"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 19:18:25",
+    "viewsCount":"4674 ",
+    "signersCount":"3",
+    "solutionsCount":"1",
+    "answersCount":"7",
+    "askerNickname":"EvilX",
+    "respondents":[
+        "digreen"
+    ],
+    "datesole":[
+        "2010-09-17 09:17:42"
+    ],
+    "descriptionLength":272
+},{
+    "questionId":568,
+    "title":"Типа reformal.ru (feedback виджет) на английском?",
+    "tags":[
+        "программное-обеспечение"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 20:52:10",
+    "viewsCount":"3719 ",
+    "signersCount":"5",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"Foror",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":316
+},{
+    "questionId":569,
+    "title":"Сериализация в WPF (События)?",
+    "tags":[
+        ".net",
+        "wpf"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-16 23:31:51",
+    "viewsCount":"3287 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"0",
+    "askerNickname":"0lympian",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":3059
+},{
+    "questionId":570,
+    "title":"Нормальная температура оперативной памяти?",
+    "tags":[
+        "железо",
+        "ram"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 00:02:16",
+    "viewsCount":"19537 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"k0rzhik",
+    "respondents":[
+        "fylfot"
+    ],
+    "datesole":[
+        "2010-09-17 00:23:55"
+    ],
+    "descriptionLength":106
+},{
+    "questionId":571,
+    "title":"PHP-функция mail(), 5-й аргумент?",
+    "tags":[
+        "codeigniter",
+        "email",
+        "phpmailer"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 01:55:19",
+    "viewsCount":"4715 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"6",
+    "askerNickname":"burzilov",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":759
+},{
+    "questionId":572,
+    "title":"Flash или AJAX Web IRC клиент",
+    "tags":[
+        "ajax",
+        "irc",
+        "adobe-flash"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 03:47:40",
+    "viewsCount":"2681 ",
+    "signersCount":"4",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"skive",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":391
+},{
+    "questionId":574,
+    "title":"Передача потокового видео и аудио по сети?",
+    "tags":[
+        "cpp",
+        "аудиотрансляция",
+        "видеотрансляция"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 08:05:26",
+    "viewsCount":"6463 ",
+    "signersCount":"4",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"FTM",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":337
+},{
+    "questionId":575,
+    "title":"Серийный номер Windows XP на ноуте и наклейка не совпадают",
+    "tags":[
+        "юриспруденция"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 08:06:07",
+    "viewsCount":"9544 ",
+    "signersCount":"7",
+    "solutionsCount":"1",
+    "answersCount":"6",
+    "askerNickname":"xsash",
+    "respondents":[
+        "malferov"
+    ],
+    "datesole":[
+        "2010-09-19 16:25:30"
+    ],
+    "descriptionLength":294
+},{
+    "questionId":576,
+    "title":"Бекапы версий контента при создании статьи как реализовать? (PHP, MySql)?",
+    "tags":[
+        "php",
+        "mysql",
+        "cvs"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 08:32:49",
+    "viewsCount":"2626 ",
+    "signersCount":"7",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"Teutonick",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":262
+},{
+    "questionId":577,
+    "title":"Странное поведение Firefox при сохранении картинки",
+    "tags":[
+        "mozilla-firefox"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 09:49:11",
+    "viewsCount":"2585 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"dasty",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":248
+},{
+    "questionId":578,
+    "title":"На чём написан Хабр?",
+    "tags":[
+        "habrahabr"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 09:49:21",
+    "viewsCount":"15828 ",
+    "signersCount":"5",
+    "solutionsCount":"1",
+    "answersCount":"9",
+    "askerNickname":"krestjaninoff",
+    "respondents":[
+        "seriyPS"
+    ],
+    "datesole":[
+        "2010-09-17 11:55:30"
+    ],
+    "descriptionLength":191
+},{
+    "questionId":579,
+    "title":"Интерфейс для больших многоязычных переводов под Linux",
+    "tags":[
+        "linux",
+        "переводы",
+        "программное-обеспечение"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 09:50:42",
+    "viewsCount":"2520 ",
+    "signersCount":"7",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"Flanker72",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":725
+},{
+    "questionId":580,
+    "title":"Как не потерять друзей из-за бизнеса",
+    "tags":[
+        "бизнес-информатика"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 10:22:20",
+    "viewsCount":"3977 ",
+    "signersCount":"7",
+    "solutionsCount":"0",
+    "answersCount":"12",
+    "askerNickname":"usja",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":398
+},{
+    "questionId":582,
+    "title":"Это киберсквоттинг?",
+    "tags":[
+        "киберсквоттинг"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 10:55:12",
+    "viewsCount":"2471 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"6",
+    "askerNickname":"tomas745",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":91
+},{
+    "questionId":584,
+    "title":"ActiveRecord для PHP5.2",
+    "tags":[
+        "php"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 11:38:31",
+    "viewsCount":"2998 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"6",
+    "askerNickname":"Elfet",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":135
+},{
+    "questionId":585,
+    "title":"Как отключить target=&quot;_blank&quot; у ссылок на сайтах? (для Google Chrome)?",
+    "tags":[
+        "google-chrome"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 11:41:11",
+    "viewsCount":"3752 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"Artqookie",
+    "respondents":[
+        "tkf"
+    ],
+    "datesole":[
+        "2010-09-17 12:11:44"
+    ],
+    "descriptionLength":168
+},{
+    "questionId":587,
+    "title":"Онлайн музыкальный магазин с покупкой музыки через API?",
+    "tags":[
+        "api"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 11:55:29",
+    "viewsCount":"2558 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"izen",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":323
+},{
+    "questionId":588,
+    "title":"Генерация xls (excel) файлов в PHP через Spreadsheet_Excel_Writer. Отступ у ячейки",
+    "tags":[
+        "php",
+        "excel"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 11:59:10",
+    "viewsCount":"3156 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"zt50",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":279
+},{
+    "questionId":589,
+    "title":"Как закачать свою музыку в Tap Tap Revenge 3?",
+    "tags":[
+        "iphone",
+        "мобильная-разработка",
+        "apple-app-store",
+        "freeware"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 12:39:22",
+    "viewsCount":"6862 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"0",
+    "askerNickname":"chakravaat",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":364
+},{
+    "questionId":592,
+    "title":"Аутентификация пользователя на сервере приложений через аутентификацию в БД",
+    "tags":[
+        "java",
+        "java-ee",
+        "идентификация-пользователей"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 13:50:20",
+    "viewsCount":"2834 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"0",
+    "askerNickname":"apostnov",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":470
+},{
+    "questionId":594,
+    "title":"Какой кодек нужен для воспроизведение FLV (КодекПаки, плееры со встроенными кодеками а также ffdshow не интересует) ?",
+    "tags":[
+        "adobe-flash",
+        "кодеки"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 14:41:19",
+    "viewsCount":"9554 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"Ruster",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":123
+},{
+    "questionId":595,
+    "title":"Какую версию Xen использовать с dom0 Debian 5?",
+    "tags":[
+        "debian",
+        "xen",
+        "виртуализация"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 14:43:13",
+    "viewsCount":"2532 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"0",
+    "askerNickname":"pentarh",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":207
+},{
+    "questionId":596,
+    "title":"Версия для печати?",
+    "tags":[
+        "css",
+        "html",
+        "печать",
+        "ie"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 14:44:16",
+    "viewsCount":"7058 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"jazzbird",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":151
+},{
+    "questionId":597,
+    "title":"Как обмануть КПК?",
+    "tags":[
+        "мобильные-устройства",
+        "аккумуляторные-батареи"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 14:50:24",
+    "viewsCount":"7105 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"4",
+    "askerNickname":"beloks",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":283
+},{
+    "questionId":599,
+    "title":"Как сменить владельца SIM-карты? (МТС)",
+    "tags":[
+        "мтс"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 16:43:22",
+    "viewsCount":"62824 ",
+    "signersCount":"3",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"zvirusz",
+    "respondents":[
+        "zvirusz                                                          "
+    ],
+    "datesole":[
+        "2010-09-18 09:51:21"
+    ],
+    "descriptionLength":378
+},{
+    "questionId":600,
+    "title":"Как отучить Google Reader давать в &quot;рекомендованном&quot; то, что мне определенно не интересно?",
+    "tags":[
+        "google",
+        "rss"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 16:57:03",
+    "viewsCount":"2775 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"Denter",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":473
+},{
+    "questionId":601,
+    "title":"Как навести порядок у себя на винте?",
+    "tags":[
+        "hdd"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 16:59:37",
+    "viewsCount":"3583 ",
+    "signersCount":"5",
+    "solutionsCount":"1",
+    "answersCount":"14",
+    "askerNickname":"diostm",
+    "respondents":[
+        "fessmage"
+    ],
+    "datesole":[
+        "2010-09-17 17:09:56"
+    ],
+    "descriptionLength":657
+},{
+    "questionId":602,
+    "title":"1 Gbps роутер для дома?",
+    "tags":[
+        "network-hardware"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 17:16:20",
+    "viewsCount":"5343 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"11",
+    "askerNickname":"sevmax",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":119
+},{
+    "questionId":604,
+    "title":"Посоветуйте аналог Evernote",
+    "tags":[
+        "заметки",
+        "evernote"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 17:56:47",
+    "viewsCount":"41883 ",
+    "signersCount":"18",
+    "solutionsCount":"1",
+    "answersCount":"13",
+    "askerNickname":"rapida",
+    "respondents":[
+        "theblackcat"
+    ],
+    "datesole":[
+        "2010-11-12 14:25:41"
+    ],
+    "descriptionLength":373
+},{
+    "questionId":605,
+    "title":"Магазин hi-fi техники с большим ассортиментом?",
+    "tags":[
+        "интернет-магазины"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 22:20:50",
+    "viewsCount":"2650 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"4c1d",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":166
+},{
+    "questionId":606,
+    "title":"Oнлайн-редактор для SVG?",
+    "tags":[
+        "wysiwyg"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-17 22:40:37",
+    "viewsCount":"69977 ",
+    "signersCount":"13",
+    "solutionsCount":"1",
+    "answersCount":"8",
+    "askerNickname":"Osaka",
+    "respondents":[
+        "lugansk"
+    ],
+    "datesole":[
+        "2010-09-18 10:00:01"
+    ],
+    "descriptionLength":68
+},{
+    "questionId":607,
+    "title":"Посредники для вывода денег с приложения в &quot;Мой Мир&quot;?",
+    "tags":[
+        "монетизация"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 03:32:10",
+    "viewsCount":"2776 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"0",
+    "askerNickname":"soulburner",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":553
+},{
+    "questionId":608,
+    "title":"Выбрать наушники для дома?",
+    "tags":[
+        "наушники"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 10:47:37",
+    "viewsCount":"4771 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"9",
+    "askerNickname":"alfsoft",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":583
+},{
+    "questionId":609,
+    "title":"Сообщение о BSOD без BSOD. Небанальный 0x0000009f?",
+    "tags":[
+        "windows"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 11:29:44",
+    "viewsCount":"17150 ",
+    "signersCount":"8",
+    "solutionsCount":"0",
+    "answersCount":"8",
+    "askerNickname":"zaka",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":5220
+},{
+    "questionId":610,
+    "title":"Правда о Blackberry?",
+    "tags":[
+        "blackberry",
+        "email",
+        "шифрование"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 12:06:07",
+    "viewsCount":"8793 ",
+    "signersCount":"4",
+    "solutionsCount":"1",
+    "answersCount":"7",
+    "askerNickname":"mpetrunin",
+    "respondents":[
+        "ipswitch"
+    ],
+    "datesole":[
+        "2010-09-19 15:19:02"
+    ],
+    "descriptionLength":1136
+},{
+    "questionId":611,
+    "title":"Tomboy+UbuntuOne+Windows?",
+    "tags":[
+        "ubuntu"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 13:14:17",
+    "viewsCount":"2822 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"reaferon",
+    "respondents":[
+        "pomeo"
+    ],
+    "datesole":[
+        "2010-09-19 13:21:19"
+    ],
+    "descriptionLength":237
+},{
+    "questionId":613,
+    "title":"Подскажите хороший html5 аудиоплеер",
+    "tags":[
+        "javascript",
+        "jquery",
+        "html"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 13:30:33",
+    "viewsCount":"5929 ",
+    "signersCount":"4",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"polyakov_andrey",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":247
+},{
+    "questionId":615,
+    "title":"Звукоизолирующие наушники для улицы до 250$?",
+    "tags":[
+        "наушники"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 14:05:48",
+    "viewsCount":"5348 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"7",
+    "askerNickname":"b0n3Z",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":505
+},{
+    "questionId":616,
+    "title":"Skype не видит контакты",
+    "tags":[
+        "skype"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 14:28:08",
+    "viewsCount":"18638 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"maxpelevin",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":250
+},{
+    "questionId":619,
+    "title":"Flash &amp; ActionScript: с чего начать?",
+    "tags":[
+        "apache-flex",
+        "adobe-flash",
+        "программное-обеспечение"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 15:49:13",
+    "viewsCount":"8976 ",
+    "signersCount":"8",
+    "solutionsCount":"0",
+    "answersCount":"6",
+    "askerNickname":"AusTiN",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":161
+},{
+    "questionId":620,
+    "title":"Как и где найти инвестора на новый проект сегодня?",
+    "tags":[
+        "стартапы",
+        "инвестиции"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-18 18:40:44",
+    "viewsCount":"18532 ",
+    "signersCount":"13",
+    "solutionsCount":"1",
+    "answersCount":"11",
+    "askerNickname":"SpaceW",
+    "respondents":[
+        "xSkyFoXx"
+    ],
+    "datesole":[
+        "2010-09-19 14:19:55"
+    ],
+    "descriptionLength":1340
+},{
+    "questionId":621,
+    "title":"wordpress не отправляет уведомления",
+    "tags":[
+        "email",
+        "уведомления"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 01:09:15",
+    "viewsCount":"12061 ",
+    "signersCount":"4",
+    "solutionsCount":"0",
+    "answersCount":"5",
+    "askerNickname":"phillennium",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":693
+},{
+    "questionId":623,
+    "title":"Смартфон (требования внутри)?",
+    "tags":[
+        "спутниковая-навигация",
+        "мобильные-устройства"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 10:48:35",
+    "viewsCount":"2586 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"7",
+    "askerNickname":"I_D",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":561
+},{
+    "questionId":624,
+    "title":"Где купить Getting Real на русском? (Украина)",
+    "tags":[
+        "книги"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 11:05:54",
+    "viewsCount":"3554 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"2",
+    "askerNickname":"Golovchenko",
+    "respondents":[
+        "DerSpinner"
+    ],
+    "datesole":[
+        "2010-09-19 15:29:52"
+    ],
+    "descriptionLength":119
+},{
+    "questionId":625,
+    "title":"Индексируется ли поисковиками свойство CSS — content?",
+    "tags":[
+        "css",
+        "поисковая-оптимизация",
+        "поисковые-системы",
+        "контент"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 12:48:42",
+    "viewsCount":"2625 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"Artqookie",
+    "respondents":[
+        "Serator"
+    ],
+    "datesole":[
+        "2010-09-19 13:52:40"
+    ],
+    "descriptionLength":35
+},{
+    "questionId":626,
+    "title":"Посоветуйте видеоплеер для сайта",
+    "tags":[
+        "adobe-flash"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 13:40:14",
+    "viewsCount":"3321 ",
+    "signersCount":"8",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"skvot",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":369
+},{
+    "questionId":627,
+    "title":"Firefox при сохранении картинки берет название из alt, можно как-нибудь исправить?",
+    "tags":[
+        "mozilla-firefox"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 13:54:40",
+    "viewsCount":"2646 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"dasty",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":62
+},{
+    "questionId":629,
+    "title":"Проблема при работе с ТвиттерАПИ?",
+    "tags":[
+        "api",
+        "twitter",
+        "веб-разработка"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 14:44:22",
+    "viewsCount":"2552 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"artem_kovardin",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":349
+},{
+    "questionId":630,
+    "title":"Nginx + php-fpm + freebsd. проблема?",
+    "tags":[
+        "php",
+        "nginx",
+        "freebsd"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 15:31:46",
+    "viewsCount":"5800 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"p01nt",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":945
+},{
+    "questionId":631,
+    "title":"Глюк Zen Coding в NPP (notepad++)?",
+    "tags":[
+        "emmet"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 15:59:06",
+    "viewsCount":"7036 ",
+    "signersCount":"9",
+    "solutionsCount":"1",
+    "answersCount":"1",
+    "askerNickname":"rapida",
+    "respondents":[
+        "rapida                                                          "
+    ],
+    "datesole":[
+        "2010-09-19 21:21:16"
+    ],
+    "descriptionLength":179
+},{
+    "questionId":633,
+    "title":"Как лучше исследовать незнакомый HID девайс..?",
+    "tags":[
+        "железо",
+        "usb",
+        "reverse-engineering"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 17:07:20",
+    "viewsCount":"3336 ",
+    "signersCount":"6",
+    "solutionsCount":"1",
+    "answersCount":"3",
+    "askerNickname":"SADKO",
+    "respondents":[
+        "m0sia"
+    ],
+    "datesole":[
+        "2010-09-20 09:06:07"
+    ],
+    "descriptionLength":617
+},{
+    "questionId":634,
+    "title":"Lastfm API и русский язык?",
+    "tags":[
+        "api"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 17:09:56",
+    "viewsCount":"3134 ",
+    "signersCount":"3",
+    "solutionsCount":"0",
+    "answersCount":"2",
+    "askerNickname":"mihavxc",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":228
+},{
+    "questionId":635,
+    "title":"Посоветуйте сервис прототипирования на замену гомокинга",
+    "tags":[
+        "mockups"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 17:50:41",
+    "viewsCount":"2686 ",
+    "signersCount":"9",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"ostrovityanin",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":132
+},{
+    "questionId":636,
+    "title":"Как правильно писать &quot;плагинное&quot; приложение?",
+    "tags":[
+        "веб-разработка"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 19:25:27",
+    "viewsCount":"3434 ",
+    "signersCount":"6",
+    "solutionsCount":"1",
+    "answersCount":"4",
+    "askerNickname":"reanimatorzon",
+    "respondents":[
+        "VenomBlood"
+    ],
+    "datesole":[
+        "2010-09-19 20:50:22"
+    ],
+    "descriptionLength":288
+},{
+    "questionId":637,
+    "title":"Шрифт в Ubuntu — Sans",
+    "tags":[
+        "шрифты"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 20:20:22",
+    "viewsCount":"3700 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"reffy",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":192
+},{
+    "questionId":638,
+    "title":"Как освоить Drupal?",
+    "tags":[
+        "drupal"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 21:02:52",
+    "viewsCount":"3881 ",
+    "signersCount":"12",
+    "solutionsCount":"0",
+    "answersCount":"8",
+    "askerNickname":"un1t",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":378
+},{
+    "questionId":640,
+    "title":"Ассоциации файлов локальных документов в Google docs",
+    "tags":[
+        "google",
+        "google-drive"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-19 23:06:36",
+    "viewsCount":"3209 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"vyacheslav84",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":186
+},{
+    "questionId":642,
+    "title":"CMS Plone 4 — системные требования и масштабирование?",
+    "tags":[
+        "cms"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 00:02:27",
+    "viewsCount":"2434 ",
+    "signersCount":"2",
+    "solutionsCount":"0",
+    "answersCount":"1",
+    "askerNickname":"VolCh",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":512
+},{
+    "questionId":643,
+    "title":"Выбор нетбука, какой?",
+    "tags":[
+        "ноутбуки"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 00:25:21",
+    "viewsCount":"2931 ",
+    "signersCount":"4",
+    "solutionsCount":"0",
+    "answersCount":"11",
+    "askerNickname":"AFoST",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":975
+},{
+    "questionId":644,
+    "title":"Как вытащить аудио дорожки из ISO-образа диска в Linux?",
+    "tags":[
+        "linux",
+        "iso",
+        "аудио",
+        "cd"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 00:50:08",
+    "viewsCount":"3747 ",
+    "signersCount":"2",
+    "solutionsCount":"1",
+    "answersCount":"2",
+    "askerNickname":"mephisto",
+    "respondents":[
+        "mephisto                                                          "
+    ],
+    "datesole":[
+        "2010-09-20 01:53:56"
+    ],
+    "descriptionLength":152
+},{
+    "questionId":645,
+    "title":"Как повысить карму?",
+    "tags":[
+        "habrahabr"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 07:17:16",
+    "viewsCount":"6394 ",
+    "signersCount":"9",
+    "solutionsCount":"1",
+    "answersCount":"24",
+    "askerNickname":"Mihalich88",
+    "respondents":[
+        "bondbig"
+    ],
+    "datesole":[
+        "2010-09-20 08:32:22"
+    ],
+    "descriptionLength":64
+},{
+    "questionId":646,
+    "title":"Озвучивание английских текстов",
+    "tags":[],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 08:42:06",
+    "viewsCount":"4039 ",
+    "signersCount":"8",
+    "solutionsCount":"0",
+    "answersCount":"3",
+    "askerNickname":"Ving",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":359
+},{
+    "questionId":647,
+    "title":"mac-адрес в ubuntu",
+    "tags":[
+        "сети",
+        "сетевое-администрирование"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 09:04:22",
+    "viewsCount":"16554 ",
+    "signersCount":"9",
+    "solutionsCount":"0",
+    "answersCount":"7",
+    "askerNickname":"Serbeh",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":165
+},{
+    "questionId":648,
+    "title":"Как заставить себя учиться?",
+    "tags":[
+        "it-образование"
+    ],
+    "difficulty":"Оценить",
+    "date":"2010-09-20 11:21:29",
+    "viewsCount":"10814 ",
+    "signersCount":"15",
+    "solutionsCount":"0",
+    "answersCount":"8",
+    "askerNickname":"kachora",
+    "respondents":[],
+    "datesole":[],
+    "descriptionLength":993
+},
