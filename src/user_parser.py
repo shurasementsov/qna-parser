@@ -64,6 +64,19 @@ def parseCountAlso(document):
         countAlso[i] = countAlso[i].find('meta').get("content").split(' ')[0]
     return countAlso[0], countAlso[1], countAlso[2]
 
+def parseLocation(document):
+    location = ''
+    try:
+        docloc = document.select('div.page__body > section.section_profile-info > dl')
+        for i in docloc:
+            if (i.find('dt').text.lstrip().rstrip().replace("\n", "").replace("  ", "").lower() == 'местоположение'):
+                location = i.find('dd').text.lstrip().rstrip().replace("\n", "").replace("  ", "")
+            else:
+                location = 'No information'
+    except:
+        location = 'No information'
+    return location
+
 
 def parseUser(document, userPage):
     nickName = userPage[0]
@@ -71,6 +84,7 @@ def parseUser(document, userPage):
     subTitle = parseSubTitle(document)
     rating = parseRating(document)
     countQuestions, countAnswers, percent = parseCountAlso(document)
+    location = parseLocation(document)
     return {
         'nickName': nickName,
         'fullName': fullName,
@@ -78,7 +92,8 @@ def parseUser(document, userPage):
         'rating': rating,
         'countQuestions': countQuestions,
         'countAnswers': countAnswers,
-        'percent': percent
+        'percent': percent,
+        'location': location
     }
 
 def getUserInfo(userPage):
