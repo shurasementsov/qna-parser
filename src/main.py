@@ -30,12 +30,12 @@ def questionQnaParser1(startId, endId):
                     json_writer.writeJSONtoFile(mrJason1, parsedQuestion)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 1\tпарсинг вопроса: ' + questionId)
+                print("Упс ошибочка\tпроцесс: 1\tпарсинг вопроса: {0:d}".format(questionId))
                 time.sleep(7)
 
 def questionQnaParser2(startId, endId):
-    startId += 158
-    endId += 163 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    startId += 27501
+    endId += 27501 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -45,12 +45,12 @@ def questionQnaParser2(startId, endId):
                     json_writer.writeJSONtoFile(mrJason2, parsedQuestion)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 2\tпарсинг вопроса: ' + questionId)
+                print("Упс ошибочка\tпроцесс: 2\tпарсинг вопроса: {0:d}".format(questionId))
                 time.sleep(7)
 
 def questionQnaParser3(startId, endId):
-    startId += 320
-    endId += 325 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    startId += 55001
+    endId += 55001 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -60,12 +60,12 @@ def questionQnaParser3(startId, endId):
                     json_writer.writeJSONtoFile(mrJason3, parsedQuestion)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 3\tпарсинг вопроса: ' + questionId)
+                print("Упс ошибочка\tпроцесс: 3\tпарсинг вопроса: {0:d}".format(questionId))
                 time.sleep(7)
 
 def questionQnaParser4(startId, endId):
-    startId += 482
-    endId += 487 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
+    startId += 82501
+    endId += 82501 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -75,7 +75,7 @@ def questionQnaParser4(startId, endId):
                     json_writer.writeJSONtoFile(mrJason4, parsedQuestion)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 4\tпарсинг вопроса: ' + questionId)
+                print("Упс ошибочка\tпроцесс: 4\tпарсинг вопроса: {0:d}".format(questionId))
                 time.sleep(7)
 
 def usersQnaParserPepare1(firstPage, lastPage):
@@ -88,7 +88,7 @@ def usersQnaParserPepare1(firstPage, lastPage):
                     csv_writer.writeToFile(userBlock1, parsedUsers)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 1\tпарсинг страницы пользователей: ' + numberPage)
+                print("Упс ошибочка\tпроцесс: 1\tпарсинг страницы пользователей: {0:d}".format(numberPage))
                 time.sleep(7)
 
 def usersQnaParserPepare2(firstPage, lastPage):
@@ -101,7 +101,7 @@ def usersQnaParserPepare2(firstPage, lastPage):
                     csv_writer.writeToFile(userBlock2, parsedUsers)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 2\tпарсинг страницы пользователей: ' + numberPage)
+                print("Упс ошибочка\tпроцесс: 2\tпарсинг страницы пользователей: {0:d}".format(numberPage))
                 time.sleep(7)
 
 def usersQnaParserPepare3(firstPage, lastPage):
@@ -114,7 +114,7 @@ def usersQnaParserPepare3(firstPage, lastPage):
                     csv_writer.writeToFile(userBlock3, parsedUsers)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 3\tпарсинг страницы пользователей: ' + numberPage)
+                print("Упс ошибочка\tпроцесс: 3\tпарсинг страницы пользователей: {0:d}".format(numberPage))
                 time.sleep(7)
 
 def usersQnaParserPepare4(firstPage, lastPage):
@@ -127,7 +127,7 @@ def usersQnaParserPepare4(firstPage, lastPage):
                     csv_writer.writeToFile(userBlock4, parsedUsers)
                 success = True
             except:
-                print('Упс ошибочка\tпроцесс: 4\tпарсинг страницы пользователей: ' + numberPage)
+                print("Упс ошибочка\tпроцесс: 4\tпарсинг страницы пользователей: {0:d}".format(numberPage))
                 time.sleep(7)
 
 
@@ -198,31 +198,39 @@ def usersQnaParser4():
 
 if __name__ == "__main__":
     # диапазон вопросов для парсинга:
-    startId = 5
-    endId = 162
+    startId = 220001 #Илья 440 001
+    endId = 275000 #Илья 880 1232
+    print("startId: {0:d}\tendId: {1:d}\n".format(startId, endId))
 
-    firstPage = 8
-    lastPage = 17 #что касается страниц пользователей, то порог по 9 страницы (старый был 44)
+    firstPage = 1501 #Илья 1
+    lastPage = 1980 #что касается страниц пользователей, то порог по 9 страницы (старый был 44) Илья 1500
 
-    countGoes = 3
+    countGoes = 550
+    print("firstPage: {0:d}\tlastPage: {1:d}\tcountGoes: {2:d}\n".format(firstPage, lastPage, countGoes))
 
     import math
-    countLoop = math.ceil((lastPage - firstPage + 1)/countGoes)
+    countLoop = math.ceil((endId - startId + 1)/countGoes)
+
+    print('parse of question\n')
 
 
 
     #Первый этап
     #ПАРСИНГ ВОПРОСОВ
-    t1 = Process(target=questionQnaParser1, args=(startId, endId,))
-    t2 = Process(target=questionQnaParser2, args=(startId, endId,))
-    t3 = Process(target=questionQnaParser3, args=(startId, endId,))
-    t4 = Process(target=questionQnaParser4, args=(startId, endId,))
-    t1.start(); t2.start(); t3.start(); t4.start()
-    t1.join(); t2.join(); t3.join(); t4.join()
-    t1.close(); t2.close(); t3.close(); t4.close()
+    for j in range(countLoop):
+        t1 = Process(target=questionQnaParser1, args=(startId+j*countGoes, firstPage+j*countGoes+countGoes,))
+        t2 = Process(target=questionQnaParser2, args=(startId+j*countGoes+countGoes*countLoop, startId+j*countGoes+countGoes+countGoes*countLoop,))
+        t3 = Process(target=questionQnaParser3, args=(startId+j*countGoes+countGoes*countLoop*2, startId+j*countGoes+countGoes+countGoes*countLoop*2,))
+        t4 = Process(target=questionQnaParser4, args=(startId+j*countGoes+countGoes*countLoop*3, startId+j*countGoes+countGoes+countGoes*countLoop*3,))
+        t1.start(); t2.start(); t3.start(); t4.start()
+        t1.join(); t2.join(); t3.join(); t4.join()
+        t1.close(); t2.close(); t3.close(); t4.close()
+        print("загружено вопросов: {0:.1f}%".format(countLoop/(j+1)))
     #в общей сложности парсилось 648 вопросов
     #с параллеливанием 100.69963002204895 секунд
     #без распараллеливания 371.66783714294434 секунд
+
+    print('parse of users\n')
 
     #Второй этап
     #ПАРСИНГ ПОЛЬЗОВАТЕЛЕЙ
@@ -257,6 +265,8 @@ if __name__ == "__main__":
             f = open('users' + "{0:d}.csv".format(i), 'w+')
             f.seek(0)
             f.close()
+
+        print("load {0:d} part".format(j) + " of {0:d}".format(countLoop))
 
     #отпарсил по 9 страниц с пользователями (в общей сложности 36) за 405.69443702697754 секунд!
 

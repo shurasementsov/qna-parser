@@ -170,6 +170,9 @@ def parseQuestion(questionId, document):
 
 def getParsedQuestion(questionId):
     page = dowloadPage(QNA_QUESTION_URL + str(questionId).zfill(6))
-    document = BeautifulSoup(page.text, "html.parser")
-    question = parseQuestion(questionId, document)
-    return question
+    if (page.status_code == 200):
+        document = BeautifulSoup(page.text, "html.parser")
+        question = parseQuestion(questionId, document)
+        return question
+    else:
+        None

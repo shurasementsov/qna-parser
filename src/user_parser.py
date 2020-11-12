@@ -29,9 +29,12 @@ def parseNickNames(document):
 
 def getNickUsers(numberPage): #до 3426 страниц из раздела "пользователи"
     page = dowloadPage(QNA_USERS_URL + str(numberPage))
-    document = BeautifulSoup(page.text, "html.parser")
-    users = parseNickNames(document)
-    return users
+    if (page.status_code == 200):
+        document = BeautifulSoup(page.text, "html.parser")
+        users = parseNickNames(document)
+        return users
+    else:
+        return None
 
 def parseFullName(document):
     #fullname = document.findAll('a', class_='user-summary__name', limit=1)[0].find('meta').get("content") ЭТОТ СПОСОБ НА СТАРЫХ АККАУНТАХ НЕ РАБОТАЕТ
