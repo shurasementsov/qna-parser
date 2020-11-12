@@ -20,7 +20,6 @@ mrsJason3 = 'users3.json'
 mrsJason4 = 'users4.json'
 
 def questionQnaParser1(startId, endId):
-    endId += 1 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -31,11 +30,9 @@ def questionQnaParser1(startId, endId):
                 success = True
             except:
                 print("Упс ошибочка\tпроцесс: 1\tпарсинг вопроса: {0:d}".format(questionId))
-                time.sleep(7)
+                time.sleep(4)
 
 def questionQnaParser2(startId, endId):
-    startId += 27501
-    endId += 27501 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -46,11 +43,9 @@ def questionQnaParser2(startId, endId):
                 success = True
             except:
                 print("Упс ошибочка\tпроцесс: 2\tпарсинг вопроса: {0:d}".format(questionId))
-                time.sleep(7)
+                time.sleep(4)
 
 def questionQnaParser3(startId, endId):
-    startId += 55001
-    endId += 55001 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -61,11 +56,9 @@ def questionQnaParser3(startId, endId):
                 success = True
             except:
                 print("Упс ошибочка\tпроцесс: 3\tпарсинг вопроса: {0:d}".format(questionId))
-                time.sleep(7)
+                time.sleep(4)
 
 def questionQnaParser4(startId, endId):
-    startId += 82501
-    endId += 82501 #range пробегает до указанного значения, не рассматривая элемент в последнем индексе
     for questionId in range(startId, endId):
         success = False
         while (success == False):
@@ -76,7 +69,7 @@ def questionQnaParser4(startId, endId):
                 success = True
             except:
                 print("Упс ошибочка\tпроцесс: 4\tпарсинг вопроса: {0:d}".format(questionId))
-                time.sleep(7)
+                time.sleep(4)
 
 def usersQnaParserPepare1(firstPage, lastPage):
     for numberPage in range(firstPage, lastPage):
@@ -215,6 +208,7 @@ if __name__ == "__main__":
 
 
 
+
     #Первый этап
     #ПАРСИНГ ВОПРОСОВ
     for j in range(countLoop):
@@ -225,10 +219,12 @@ if __name__ == "__main__":
         t1.start(); t2.start(); t3.start(); t4.start()
         t1.join(); t2.join(); t3.join(); t4.join()
         t1.close(); t2.close(); t3.close(); t4.close()
-        print("загружено вопросов: {0:.1f}%".format(countLoop/(j+1)))
+        print("загружено вопросов: {0:.1f}%".format((j+1)/countLoop))
     #в общей сложности парсилось 648 вопросов
     #с параллеливанием 100.69963002204895 секунд
     #без распараллеливания 371.66783714294434 секунд
+
+    print('вопросы отпарсились')
 
     print('parse of users\n')
 
